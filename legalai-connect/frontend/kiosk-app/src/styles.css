@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  background: #f7f4ed;
+  color: #2b2a27;
+  font-family: Arial, sans-serif;
+}
+.kiosk {
+  max-width: 760px;
+  margin: 50px auto;
+  padding: 42px;
+  background: #fff;
+  border: 1px solid #d5cfc2;
+}
+.eyebrow { color: #743130; font-weight: 700; letter-spacing: 1.2px; }
+h1 { font-family: Georgia, serif; font-size: 42px; margin-bottom: 4px; }
+.lead { font-family: Georgia, serif; font-size: 22px; color: #743130; }
+textarea {
+  width: 100%; min-height: 160px; box-sizing: border-box;
+  padding: 16px; margin: 18px 0;
+  border: 1px solid #cfc8ba; font-size: 18px;
+}
+button {
+  padding: 13px 22px; border: 0; background: #743130; color: white;
+  font-size: 16px; cursor: pointer;
+}
+button.secondary { background: #eeeae1; color: #2b2a27; margin-left: 8px; }
+.result { margin-top: 24px; padding: 18px; background: #edf1e8; border-left: 4px solid #4f6546; }

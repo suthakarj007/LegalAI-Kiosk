@@ -1,0 +1,22 @@
+[
+  {
+    "id": "DEMO-TN-001",
+    "authority": "Demo / synthetic",
+    "title": "General first-step guidance for suspected property theft",
+    "topic": "theft",
+    "jurisdiction": "Tamil Nadu, India",
+    "effective_date": "2026-01-01",
+    "text": "For a suspected theft-related matter, preserve available evidence and identify the appropriate local reporting authority. The production system must verify the current procedural pathway from authoritative sources before giving case-specific guidance.",
+    "source": "SYNTHETIC-DEMO-ONLY"
+  },
+  {
+    "id": "DEMO-TN-002",
+    "authority": "Demo / synthetic",
+    "title": "Human escalation for uncertain legal matters",
+    "topic": "escalation",
+    "jurisdiction": "Tamil Nadu, India",
+    "effective_date": "2026-01-01",
+    "text": "If the system cannot confidently classify the issue or if the matter is sensitive or complex, route the citizen to a human legal-support workflow.",
+    "source": "SYNTHETIC-DEMO-ONLY"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "low": [
+    "general information",
+    "document checklist",
+    "where to start"
+  ],
+  "guided": [
+    "procedure with missing facts",
+    "department navigation"
+  ],
+  "human_review": [
+    "uncertain legal classification",
+    "complex court matter",
+    "conflicting sources"
+  ],
+  "emergency": [
+    "immediate safety threat",
+    "serious ongoing violence",
+    "urgent safeguarding concern"
+  ]
+}

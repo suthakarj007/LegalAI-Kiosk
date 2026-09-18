@@ -1,0 +1,8 @@
+{
+  "case_id": "SYNTHETIC-002",
+  "language": "en-IN",
+  "input": "I am not sure which government office handles my land document issue.",
+  "category": "administrative navigation",
+  "expected_action": "clarify location/document type and retrieve verified department pathway",
+  "real_person_data": false
+}

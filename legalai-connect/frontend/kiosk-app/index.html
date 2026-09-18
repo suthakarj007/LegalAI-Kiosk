@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="ta">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>LegalAI Connect</title>
+  <link rel="stylesheet" href="src/styles.css">
+</head>
+<body>
+  <main class="kiosk">
+    <p class="eyebrow">LEGALAI CONNECT</p>
+    <h1>வணக்கம்</h1>
+    <p class="lead">உங்கள் பிரச்சினையை சொல்லுங்கள்.</p>
+
+    <textarea id="problem" placeholder="உதாரணம்: என்னோட மாடு காணாமல் போயிருச்சு..."></textarea>
+
+    <div class="actions">
+      <button id="demo">உதவி பெறுங்கள்</button>
+      <button id="clear" class="secondary">மீண்டும்</button>
+    </div>
+
+    <section id="result" class="result" hidden></section>
+  </main>
+  <script src="src/app.js"></script>
+</body>
+</html>

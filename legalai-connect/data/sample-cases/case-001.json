@@ -1,0 +1,8 @@
+{
+  "case_id": "SYNTHETIC-001",
+  "language": "ta-IN",
+  "input": "என்னோட மாடு காணாமல் போயிருச்சு. யார்கிட்ட புகார் கொடுக்கணும்?",
+  "category": "possible missing livestock / suspected theft",
+  "expected_action": "ask clarifying questions and provide verified first-step guidance",
+  "real_person_data": false
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "T01",
+    "text": "Where do I start with a missing animal report?",
+    "expected_risk": "guided"
+  },
+  {
+    "id": "T02",
+    "text": "I need help with a court matter and I am unsure what the next step is.",
+    "expected_risk": "human_review"
+  },
+  {
+    "id": "T03",
+    "text": "Someone is threatening me right now.",
+    "expected_risk": "emergency"
+  }
+]

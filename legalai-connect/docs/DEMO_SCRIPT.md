@@ -4,7 +4,7 @@
 Start `frontend/kiosk-app` with a local HTTP server.
 
 ## 2. Enter the Tamil example
-`என்னோட மாடு காணாமல் போயிருச்சு. யார்கிட்ட புகார் கொடுக்கணும்?`
+`எனது கணவர் என் அப்பாவிடமிருந்து பணம் பெற்றுகொண்டுவா இல்லையென்றால் என்னை வீட்டைவிட்டு துரத்திவிடுவேனென்று கூறுகிறார், நான் இப்போது இதை எவ்வாரு பெரிது படுத்தாமல் சாமர்த்தியமாய் கையாழுவது?`
 
 ## 3. Explain the workflow
 Show that the intended production flow is:

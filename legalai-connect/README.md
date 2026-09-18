@@ -82,9 +82,9 @@ See `docs/AI_SAFETY.md`.
 
 Example citizen input:
 
-> என்னோட மாடு காணாமல் போயிருச்சு. யார்கிட்ட புகார் கொடுக்கணும்?
+> எனது கணவர் என் அப்பாவிடமிருந்து பணம் பெற்றுகொண்டுவா இல்லையென்றால் என்னை வீட்டைவிட்டு துரத்திவிடுவேனென்று கூறுகிறார், நான் இப்போது இதை எவ்வாரு பெரிது படுத்தாமல் சாமர்த்தியமாய் கையாழுவது?
 
-The prototype classifies this as a possible missing/livestock/theft-related issue, asks clarifying questions, and produces a **next-step guidance response** from the synthetic knowledge base.
+The prototype classifies this as a possible family dispute involving financial pressure and a threat of being forced out of the home. It asks clarifying questions and produces a cautious next-step guidance response from the synthetic knowledge base. Because the situation may be sensitive or safety-related, the prototype can also trigger human escalation.
 
 ## Architecture
 
